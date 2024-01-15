@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm José!
 
-Welcome to my GitHub profile! I'm [Your Job Title/Role] passionate about technology, innovation, and learning new things. Here you'll find a mix of my projects, contributions, and experiments.
+Welcome to my GitHub profile! I'm passionate about technology, innovation, and learning new things. Here you'll find a mix of my projects, contributions, and experiments.
 
 ## 🚀 About Me
 - 🎓 I'm a Computer Science Engineering Student.
