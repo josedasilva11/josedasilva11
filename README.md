@@ -1,4 +1,5 @@
-![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json%3Fcolor%3Dpink)
+![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json&style=social&logoColor=violet&label=Snipped&labelColor=violet&color=violet
+)
 
 
 <h2>Hey 👋, I'm José</h2>
