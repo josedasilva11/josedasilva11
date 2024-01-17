@@ -1,4 +1,4 @@
-![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json&style=social&logoColor=violet&label=Snipped&labelColor=violet&color=violet
+![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json&logo=internetcomputer&label=I%20can%20see%20you%20here%20-%20You're%20lucky%20number%3A
 )
 
 
