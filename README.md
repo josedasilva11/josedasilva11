@@ -1,6 +1,7 @@
 
 
 <h2>Hey 👋, I'm José</h2>
+  [![HitCount](https://hits.dwyl.com/josedasilva11/josedasilva11/josedasilva11.svg?style=flat)](http://hits.dwyl.com/josedasilva11/josedasilva11/josedasilva11)
 <p>I'm currently a software engineer student at Universidade do Minho in Portugal. I am working on some side projects, learning a couple new dishes, and trying to conquer summoners rift as Will Ferrell.</p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
