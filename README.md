@@ -2,8 +2,7 @@
 <hr style="height: 5px; background-color: grey; border: none;">
 <hr style="height: 5px; background-color: grey; border: none;">
 <h2>Hey 👋, I'm José</h2>
-![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json&logo=internetcomputer&label=I%20can%20see%20you%20here%20-%20You're%20lucky%20number%3A
-)
+
 <p>I'm currently a software engineer student at Universidade do Minho in Portugal. I am working on some side projects, learning a couple new dishes, and trying to conquer summoners rift as Will Ferrell.</p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
@@ -17,6 +16,9 @@
 <li>- 📫 How to reach me: js.pdo.silv@gmail.com.</li>
 <li>- 🎉 Fun Fact: 我不会说中文</li>
 </ul>
+
+![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json&logo=internetcomputer&label=I%20can%20see%20you%20here%20-%20You're%20lucky%20number%3A
+)
 
 ### A little more about me... 
 
