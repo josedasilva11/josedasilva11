@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/josedasilva11/josedasilva11.svg)](http://hits.dwyl.com/josedasilva11/josedasilva11)
+[![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json%3Fcolor%3Dpink)
 
 
 <h2>Hey 👋, I'm José</h2>
