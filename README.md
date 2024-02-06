@@ -12,7 +12,7 @@
 <li>- 🎓 I'm a Computer Science Engineering Student.</li>
 <li>- 🧐 Learning about serverless architectures, distributed systems, and a bit of ML.</li>
 <li>- 💼 Currently working for myself as self-employed.</li>
-<li>- 🌱 I’m currently learning AWS.</li>
+<li>- 🌱 I’m currently learning AWS, RUBY.</li>
 <li>- 📫 How to reach me: js.pdo.silv@gmail.com.</li>
 <li>- 🎉 Fun Fact: 我不会说中文</li>
 </ul>
