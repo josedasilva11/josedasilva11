@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Marjers.png" alt="TryHackMe Badge" width="200">
+  <img src="https://tryhackme.com/badge/3006132" alt="TryHackMe Badge" width="200">
 </p>
 
 
