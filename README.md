@@ -85,7 +85,7 @@ const jose = {
 <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="nmap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/VMware_Logo.png" alt="vmware" width="25" height="25" />
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtualbox" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
@@ -95,7 +95,7 @@ const jose = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25" />
+
 </p>
 
 ## 📈 My GitHub Stats
