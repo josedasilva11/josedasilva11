@@ -1,6 +1,6 @@
 ![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json&logo=internetcomputer&label=I%20can%20see%20you%20here%20-%20You're%20lucky%20number%3A
 )
-
+<script src="https://tryhackme.com/badge/3006132"></script>
 <h2>Hey 👋, I'm José</h2>
 
 <p>I'm currently a software engineer student at Universidade do Minho in Portugal. I am working on some side projects, learning a couple new dishes, and trying to conquer summoners rift as Will Ferrell.</p>
