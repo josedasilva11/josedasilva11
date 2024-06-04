@@ -3,26 +3,61 @@
 
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Web Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .badge {
+            margin: 20px 0;
+        }
+        .info {
+            font-size: 1.2em;
+            color: #333;
+        }
+        .info strong {
+            color: #007bff;
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to My Web Page</h1>
+    <div class="container">
+        <h1>Welcome to My Web Page</h1>
 
-    <!-- Include this script to dynamically generate the badge -->
-    <script src="https://tryhackme.com/badge/3006132"></script>
+        <!-- Include this script to dynamically generate the badge -->
+        <div class="badge">
+            <script src="https://tryhackme.com/badge/3006132"></script>
+            <!-- Alternatively, include the static image of the badge -->
+            <img src="https://tryhackme-badges.s3.amazonaws.com/Marjers.png" alt="TryHackMe Badge" width="200">
+        </div>
 
-    <!-- Alternatively, include the static image of the badge -->
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Marjers.png" alt="TryHackMe">
-
-    <p>
-        <strong>Rank:</strong> Hacker<br>
-        <strong>Rooms Completed:</strong> 50<br>
-        <strong>Badges Earned:</strong> 5
-    </p>
+        <div class="info">
+            <p>
+                <strong>Rank:</strong> Hacker<br>
+                <strong>Rooms Completed:</strong> 50<br>
+                <strong>Badges Earned:</strong> 5
+            </p>
+        </div>
+    </div>
 </body>
 </html>
+
 
 
 
