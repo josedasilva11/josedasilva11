@@ -2,7 +2,30 @@
 )
 
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Marjers.png)
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+
+    <!-- Include this script to dynamically generate the badge -->
+    <script src="https://tryhackme.com/badge/3006132"></script>
+
+    <!-- Alternatively, include the static image of the badge -->
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Marjers.png" alt="TryHackMe">
+
+    <p>
+        <strong>Rank:</strong> Hacker<br>
+        <strong>Rooms Completed:</strong> 50<br>
+        <strong>Badges Earned:</strong> 5
+    </p>
+</body>
+</html>
+
+
+
 <h2>Hey 👋, I'm José</h2>
 
 <p>I'm currently a software engineer student at Universidade do Minho in Portugal. I am working on some side projects, learning a couple new dishes, and trying to conquer summoners rift as Will Ferrell.</p>
