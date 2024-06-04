@@ -6,13 +6,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Marjers.png" alt="TryHackMe Badge" width="200">
 </p>
 
-<p align="center">
-  <strong>Rank:</strong> Hacker<br>
-  <strong>Rooms Completed:</strong> 50<br>
-  <strong>Badges Earned:</strong> 5
-</p>
-
-
 
 
 <h2>Hey 👋, I'm José</h2>
