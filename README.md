@@ -86,7 +86,7 @@ const jose = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/VMware_Logo.png" alt="vmware" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/VirtualBox_logo.png" alt="virtualbox" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="virtualbox" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="25" height="25" />
