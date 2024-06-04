@@ -1,6 +1,6 @@
 ![HitCount](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjosedasilva11%2Fjosedasilva11.json&logo=internetcomputer&label=I%20can%20see%20you%20here%20-%20You're%20lucky%20number%3A
 )
-## TryHackMe Badge
+
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Marjers.png)
 <h2>Hey 👋, I'm José</h2>
