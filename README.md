@@ -73,7 +73,7 @@ const jose = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 <!-- Added Icons -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scss/scss-original.svg" alt="scss" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25" />
@@ -82,14 +82,12 @@ const jose = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="nmap" width="25" height="25" />
+<img src="https://img.icons8.com/color/48/000000/nmap.png" alt="nmap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="vmware" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/virtualbox/virtualbox-original.svg" alt="virtualbox" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/VMware_Logo.png" alt="vmware" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/VirtualBox_logo.png" alt="virtualbox" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="25" height="25" />
@@ -99,7 +97,6 @@ const jose = {
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="25" height="25" />
 </p>
-
 
 ## 📈 My GitHub Stats
 
