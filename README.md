@@ -25,4 +25,4 @@ I work directly with the client, end to end. Currently with companies in Portuga
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=josedasilva11&show_icons=true&theme=shadow_blue)
+
