@@ -9,7 +9,7 @@ Freelance software developer, based in Portugal, building practical tools for bu
 
 I work directly with the client, end to end. Currently with companies in Portugal and Luxembourg.
 
-🌐 [marjers.com](https://marjers.com) · ✉️ js.pdo.silv@gmail.com · 🎓 Computer Science Engineering @ Universidade do Minho
+🌐 [marjers.com](https://marjers.com) · ✉️ geral@marjers.com · 🎓 Computer Science Engineering @ Universidade do Minho
 
 #### Stack
 <p align="left">
